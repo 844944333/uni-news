@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "文章详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-parse": "/components/u-parse/u-parse",
+    "comments-box": "/components/comments-box/comments-box",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "u-back-top": "/uview-ui/components/u-back-top/u-back-top"
+  }
+}

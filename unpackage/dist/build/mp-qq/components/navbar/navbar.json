@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "uni-icons": "/components/uni-icons/uni-icons"
+  },
+  "component": true
+}

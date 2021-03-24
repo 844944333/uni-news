@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "",
+  "pullRefresh": false,
+  "usingComponents": {
+    "navbar": "/components/navbar/navbar",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "list-card": "/components/list-card/list-card"
+  }
+}
